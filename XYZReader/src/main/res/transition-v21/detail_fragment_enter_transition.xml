@@ -4,7 +4,7 @@
     android:duration="500">
     <slide android:slideEdge="bottom">
         <targets>
-            <target android:targetId="@id/article_body"></target>
+            <target android:targetId="@id/article_body"/>
         </targets>
     </slide>
 

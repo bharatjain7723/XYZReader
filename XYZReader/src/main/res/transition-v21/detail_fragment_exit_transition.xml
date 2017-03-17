@@ -4,8 +4,8 @@
     android:duration="500">
     <slide android:slideEdge="bottom">
         <targets>
-            <target android:targetId="@id/article_body"></target>
+            <target android:targetId="@id/article_body"/>
         </targets>
     </slide>
-    <fade android:fadingMode="fade_out"></fade>
+    <fade android:fadingMode="fade_out"/>
 </transitionSet>
