@@ -17,7 +17,7 @@ I improved an app for this project:
 
 XYZ Reader: A mock RSS feed reader featuring banner photos and headlines. Download the code here. https://www.udacity.com/api/nodes/4292653440/supplemental_media/xyzreaderzip/download  
 
-The app is currently functional, and work in most cases for most users.
+The app was functional, and worked in most cases for most users.
 
 My job was to take the user feedback in the UI Review node, and implement changes that will improve the UI and make it conform to Material Design.
 
